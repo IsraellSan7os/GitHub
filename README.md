@@ -32,3 +32,7 @@
 5. **Envie para o repositório remoto:**
    - Depois de comitar, use `git push` para enviar suas alterações para o repositório remoto.
 
+# Comandos Git Adicionais
+
+### Criando um Alias para Facilitar os Comandos
+- `git config --global alias.s status` → Cria um atalho para `git status`, permitindo que você use `git s` em vez de `git status`.
